@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3Ji1B4Vaz0Ki3ufHDHUslg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="150, 533, 74, 69" DesignTimeScaleFactor="1" ElementType="ListItem" FullSelectorArgument="&lt;wnd cls='SysListView32' title='FolderView' /&gt;&lt;ctrl name='Desktop' role='list' /&gt;&lt;ctrl name='MANISHA State Common Entrance Test Cell, Maharashtra State, Mumb*' role='list item' /&gt;" FuzzySelectorArgument="&lt;wnd cls='SysListView32' title='FolderView' /&gt;&lt;ctrl name='Desktop' role='list' /&gt;&lt;ctrl name='MANISHA State Common Entrance Test Cell, Maharashtra State, Mumb*' role='list item' automationid='' check:text='MANISHA State Common Entrance Test Cell, Maharashtra State, Mumbai.pdf' /&gt;" Guid="b89972b1-59c2-4e2c-8792-3842fd9313c8" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='Progman' title='Program Manager' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3e4d7c77c40d644f4b8e3fed0ec495ba.png" xmlns="">0qT2D4comB06xpJFTvrPnEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FYssH2Wj70OA5qk2l1Jl0g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSdAHa8LcHDhC-xd71S7LsFxUn16AZiZPrPwO7WT-ymEffT2Cg/viewform" CVScreenId="a5dfb334-cd84-46c7-b430-ff9bc1bccf34" CvElementArea="385, 566, 300, 31" CvType="InputBox" DesignTimeRectangle="385, 564, 301, 32" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzyMatches="10000" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' /&gt;" Guid="3beedb69-27d9-4009-bf2a-beb9268df4e6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Contact information' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="80a5a47bda3a58d79df741d8c80fff98.png" xmlns="">062ohX49dlUO8UXmFzWAcPg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
