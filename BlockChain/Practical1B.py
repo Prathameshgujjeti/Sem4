@@ -7,7 +7,7 @@ from Crypto.Signature import PKCS1_v1_5
 from Crypto.Hash import SHA
 
 class Client:
-    def __init__ (self):
+    def __init__(self):
         random = Crypto.Random.new().read
         self._private_key = RSA.generate(1024, random)
         self._public_key = self._private_key.publickey()
@@ -18,7 +18,7 @@ class Client:
         return binascii.hexlify(self._public_key.exportKey(format='DER')).decode('ascii')
 
 class Transaction:
-    def __init__ (self, sender, receiver, value):
+    def __init__(self, sender, receiver, value):
         self.sender = sender
         self.receiver = receiver
         self.value = value
@@ -29,7 +29,6 @@ class Transaction:
             identity = "Genesis"
         else:
             identity = self.sender.identity
-
         return collections.OrderedDict({
             'sender': identity,
             'receiver': self.receiver,
@@ -43,19 +42,19 @@ class Transaction:
         h = SHA.new(str(self.to_dict()).encode('utf8'))
         return binascii.hexlify(signer.sign(h)).decode('ascii')
 
-Shivam = Client()
-print("-"*50)
-print("Shivam Key")
-print(Shivam.identity)
+Raj = Client()
+print("-" * 50)
+print("Raj Key")
+print(Raj.identity)
 
-Rahul = Client()
-print("-"*50)
-print("Rahul Key")
-print(Rahul.identity)
+Vai = Client()
+print("-" * 50)
+print("Vai Key")
+print(Vai.identity)
 
-t = Transaction(Rahul, Shivam.identity, 10.0)
-print("-"*50)
+t = Transaction(Raj, Vai.identity, 10.0)
+print("-" * 50)
 print("Transaction Sign")
 signature = t.sign_transaction()
 print(signature)
-print("-"*50)
+print("-" * 50)

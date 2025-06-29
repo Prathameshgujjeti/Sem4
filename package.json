@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^4.2.0",
+    "solidity": "^0.0.1",
     "web3": "^4.16.0"
   }
 }
