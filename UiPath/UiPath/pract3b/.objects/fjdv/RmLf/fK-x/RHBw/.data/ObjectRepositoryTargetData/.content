@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0NhWYrOjCU6PS6kT-HkjJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ea44e02a-7994-4bd8-ad36-833d121a3884" CvTextArea="175, 118, 10, 12" CvTextArgument="B" CvType="Text" DesignTimeRectangle="170, 114, 22, 23" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;uia cls='MsoCommandBar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Home' /&gt;&lt;uia cls='NetUIChunk' name='Font' /&gt;&lt;uia cls='NetUIRibbonButton' name='Bold' /&gt;" FuzzySelectorArgument="&lt;uia cls='MsoCommandBar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Home' /&gt;&lt;uia cls='NetUIChunk' name='Font' /&gt;&lt;uia cls='NetUIRibbonButton' name='Bold' role='Button' automationid='' check:fulltext='Bold' /&gt;" Guid="f2b1dd12-dd55-4f2a-b441-120fe2e583ba" ScopeSelectorArgument="&lt;wnd app='winword.exe' cls='OpusApp' title='Document1 - Word' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5a389d099c051b30cc55f461a569ccb4.png" xmlns="">0uOmj0fXzpUmrw7sWLYW_LA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
