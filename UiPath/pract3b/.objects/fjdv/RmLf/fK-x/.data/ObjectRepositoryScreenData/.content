@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryScreenData ContentHash="oMJJsN3zqEemdicjL9F95A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryScreenData.Data>
-    <TargetApp x:Key="TargetApp" Area="-8, -8, 1382, 744" FilePath="C:\Program Files\Microsoft Office\root\Office16\winword.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJjSURBVFhH7ZfvS1NhFMf3VvAPCIRe71cUChn0wl7nm/DXfkQkk8JeBIZFGSMppcHeqe02N2+zVdBqmBOXL8zUliihiCVIOrUoBRfWaERhreM5xztRmjLpPnsh+8KB+5x92flw7j3PvY9GLWnL7hxQLsVKV+nO01XcPaqrkM7ryqU2bblrSFvmiiEAKBb1ZDB7DxlMHqve5GnWV7WH9JXuOQQABMCQAAEAAQABMP4DwGi9dxCj1GiVrxgtst9g6Zg0mDsAAQABAAEAAQABQBQAbIQMCAAIgMX3DsCezCKB4VTKqweQqX78XGMIpXz2AUj0f0r5fQTAnl1iq2itlM/dgu0A1bfC0OiNQLHNzwCllwIQ6J8Bf/jdJoBdGoS130lwPRlX/xa0BCbYYGsKM4Cjc5TXVPCwxcMA4ddRztXc7FG/A+du97HB0TnGAM9H5iGZ/Ms5U0MXAywsfYM/mCs67VUf4FjNAzYEX75ngM8r3+FtNMa5ZjkCRWdkLj49HxM3BYvLcS5aUvuQzXb3MHehC6GqsAskX8+UuCkIvZrj7bK+ZYDNJy48gtmPqxD99BVutA9z7qKzTxyA4/4Ym/rffIDlLwkeQ5oE6kL30Cz/dtzmE3cLzPYQm6gL9BASwHXXIOfiiV/8EArdiArP+njsSDSGBHCy7jGvSU9fzIjfCaXgJDzDdp+6HNzcCWkiSFdbB9ICkGe32CpaK+XTA+Rex7nX8b4GEPZRyp7M4p/P8tTB5BoCZP9gspMQ4AgC0NHMgQC9CLCQVYB0QoB8BEgdTiUEiCDAatYAdhICFCiXe5BGsw7s50pqtdP2pAAAAABJRU5ErkJggg==" Selector="&lt;wnd app='winword.exe' cls='OpusApp' title='Document1 - Word' /&gt;" Version="V2">
-      <imageRef attrName="InformativeScreenshot" originalValue="0d24290468ecae4d96e10b4fc4daaae8.png" xmlns="">0324gzpR1FUG0oDs4ZSPoAg</imageRef>
-    </TargetApp>
-  </ObjectRepositoryScreenData.Data>
-</ObjectRepositoryScreenData>
